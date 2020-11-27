@@ -1,4 +1,4 @@
-# Lambdas e interfaces funcionais
+# Lambdas e interfaces funcionais (Adaptado da DevDojo)
 
 Com uso de lambdas e interfaces funcionais podemos otimizar o nosso código. 
 
@@ -8,3 +8,4 @@ Exemplos
 . Predicate
 . Function
 . Consumer
+
